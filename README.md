@@ -58,7 +58,7 @@
         <li><b>Microservices & Core Component Ownership:</b> Engineered Java & Spring Boot microservices, served as primary owner for core component (<code>Calm-custom</code>), leading installation, upgrades, rollbacks, and release validation.</li>
         <li><b>K8s Deployments & Performance Tuning:</b> Designed Helm-based deployments across Kubernetes and OpenShift, optimized API-server load using read-only ConfigMaps & Secrets, and built a <b>CNF validation feature</b> for system correctness.</li>
         <li><b>DevOps & Container Security:</b> Remediated 14+ CVEs using Anchore & VAMS, upgraded critical framework dependencies (Spring, Go modules, Jetty), and rebuilt base container images on <b>Rocky Linux OS</b>.</li>
-        <li><b>GenAI Workflow Automation & Quality:</b> Integrated GenAI developer tools (Claude Code, GitHub Copilot, Cursor, Antigravity, MCPs) into daily setups and automated Jenkins CI/CD pipelines, driving JUnit/Mockito test coverage from 44% toward a <b>≥70% SonarQube quality gate</b>.</li>
+        <li><b>Gen-AI Workflow Automation & Quality:</b> Integrated Gen-AI developer tools (Claude Code, GitHub Copilot, Cursor, Antigravity, MCPs) into daily setups, Writing JUnit/Mockito test coverage and achieving <b>≥70% on SonarQube quality gate</b>.</li>
       </ul>
       <p>
         <code>Java</code> · <code>Spring Boot</code> · <code>Kubernetes</code> · <code>Helm</code> · <code>OpenShift</code> · <code>Docker</code> · <code>DevOps</code> · <code>Jenkins</code> · <code>SonarQube</code> · <code>Rocky Linux</code> · <code>Claude Code</code> · <code>MCPs</code>
