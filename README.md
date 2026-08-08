@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Cat Cloud & DevOps Neon Tech Banner -->
-  <img src="./linkedin_banner_cat_skills_1.png" width="100%" alt="Dhruthi S Cat Tech Banner"/>
+  <!-- Pixel Art Mario & Pokemon Cat Banner -->
+  <img src="./cat_mario_wide_banner.png" width="100%" max-height="220px" style="max-height: 220px; object-fit: cover; border-radius: 10px;" alt="Dhruthi S - Pixel Art Mario Cat Banner"/>
 
   <br/><br/>
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dhruthi+S+🐾;Associate+Software+Developer+%40+Nokia;Kubernetes+%26+Cloud+Microservices;DevOps+%26+Container+Security;Cat+Lover+%26+GenAI+Explorer+🐱">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dhruthi+S+🐾;Associate+Software+Developer+%40+Nokia;Kubernetes+%26+Cloud+Microservices;DevOps+%26+Container+Security;Cat+Lover+%26+GenAI+Explorer+🐱" alt="Typing Tagline"/>
+  <!-- Properly Encoded Animated Typing Tagline -->
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Associate%20Software%20Developer%20%40%20Nokia;Kubernetes%20%26%20Cloud%20Microservices;DevOps%20%26%20Container%20Security;GenAI%20%26%20Automation%20Practitioner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Associate%20Software%20Developer%20%40%20Nokia;Kubernetes%20%26%20Cloud%20Microservices;DevOps%20%26%20Container%20Security;GenAI%20%26%20Automation%20Practitioner" alt="Typing Tagline"/>
   </a>
 
   <p align="center">
