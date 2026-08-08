@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Pixel Art Mario & Pokemon Cat Banner -->
-  <img src="./banner.png" width="100%" max-height="220px" style="max-height: 220px; object-fit: cover; border-radius: 10px;" alt="Dhruthi S - Pixel Art Mario Cat Banner"/>
+  <img src="./banner.png" width="100%" max-height="220px" style="max-height: 220px; object-fit: cover; border-radius: 10px;" alt="Dhruthi S"/>
 
   <br/><br/>
 
@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>✨ Welcome to my GitHub Cave! 🐾</h3>
+      <h3>✨ Welcome to my GitHub! 🐾</h3>
       <p align="justify">
         I am an <b>Associate Software Developer</b> at <b>Nokia Solutions and Networks</b> working on the <b>Nokia Cloud Operations Manager (NCOM)</b> platform. I specialize in building Java & Spring Boot microservices, deploying Helm charts on <b>Kubernetes & OpenShift</b>, remediating container security vulnerabilities, and supercharging developer productivity with GenAI tools!
       </p>
