@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Pixel Art Mario & Pokemon Cat Banner -->
-  <img src="./cat_mario_wide_banner.png" width="100%" max-height="220px" style="max-height: 220px; object-fit: cover; border-radius: 10px;" alt="Dhruthi S - Pixel Art Mario Cat Banner"/>
+  <img src="./banner.png" width="100%" max-height="220px" style="max-height: 220px; object-fit: cover; border-radius: 10px;" alt="Dhruthi S - Pixel Art Mario Cat Banner"/>
 
   <br/><br/>
 
