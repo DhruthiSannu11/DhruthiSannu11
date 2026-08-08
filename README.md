@@ -3,8 +3,6 @@
   <!-- Pixel Art Mario & Pokemon Cat Banner -->
   <img src="./banner.png" width="100%" max-height="220px" style="max-height: 220px; object-fit: cover; border-radius: 10px;" alt="Dhruthi S"/>
 
-  <br/><br/>
-
   <!-- Properly Encoded Animated Typing Tagline -->
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Associate%20Software%20Developer%20%40%20Nokia;Kubernetes%20%26%20Cloud%20Microservices;DevOps%20%26%20Container%20Security;GenAI%20%26%20Automation%20Practitioner">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Associate%20Software%20Developer%20%40%20Nokia;Kubernetes%20%26%20Cloud%20Microservices;DevOps%20%26%20Container%20Security;GenAI%20%26%20Automation%20Practitioner" alt="Typing Tagline"/>
@@ -16,6 +14,7 @@
 
   <!-- Modern Social Pills -->
   <p align="center">
+    <a href="./Dhruthi-S-Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-0055DA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
     <a href="https://linkedin.com/in/dhruthi-s-692151173"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:dhruthisannu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/DhruthiSannu11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -122,7 +121,7 @@
       </div>
     </td>
     <td width="45%" valign="top">
-      <h4>☁️ Certifications </h4>
+      <h4>☁️ Certifications & 🗣️ Languages</h4>
       <ul>
         <li>☁️ <b>CKAD</b> (Certified Kubernetes Application Developer) – <i>Pursuing</i></li>
         <li>☁️ <b>Microsoft Certified:</b> Azure Fundamentals (AZ-900)</li>
@@ -181,6 +180,7 @@
     🐾 <i>"Purr-fecting code, one container at a time!"</i> 🐾
     <br/><br/>
     <b>Let's Connect & Build:</b> &nbsp;
+    <a href="./Dhruthi-S-Resume.pdf">📄 View Resume</a> &nbsp;•&nbsp; 
     <a href="mailto:dhruthisannu@gmail.com">dhruthisannu@gmail.com</a> &nbsp;•&nbsp; 
     <a href="https://linkedin.com/in/dhruthi-s-692151173">LinkedIn Profile</a> &nbsp;•&nbsp; 
     <a href="https://github.com/DhruthiSannu11">GitHub Profile</a>
